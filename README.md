@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # WebMobileAssignmentB
 
 Assignment B
@@ -9,4 +9,3 @@ Assignment B
 ### **Group:** Feng, Yiyi & Jad  
 > hahhahahahah  
 > JAD'S HAHAHA
->>>>>>> dd2a01233082566433d16e57fc6a665f10e9f682
